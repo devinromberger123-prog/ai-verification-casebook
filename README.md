@@ -2,6 +2,10 @@
 
 A documented discipline for catching confident-but-wrong AI output in quantitative and sourced work — with five worked cases where it caught real errors before they shipped.
 
+## Why this matters for AI evaluation & trust and safety
+
+Every case here is a worked example of the core skill behind LLM evaluation, model-quality, and trust-and-safety work: **detecting confident, plausible, *wrong* model output before it ships.** Together the cases demonstrate adversarial (red-team / blue-team) review, source-verification discipline, blind reproduction, and disciplined judgment about when to trust a model versus verify it — shown across real quantitative research, with proprietary specifics removed. If you are hiring for AI evaluation, model quality, data quality, or trust and safety, the five cases below are concrete evidence of that judgment in action.
+
 The marketable skill on display here is narrow and specific: **catching the confident, plausible, wrong outputs that quietly kill a result** — by auditing claims back to their source and resolving disagreements through direct computation rather than trusting model output or majority vote. Every case below is a real error caught in the author's own research, documented honestly, with the proprietary specifics removed.
 
 ---
